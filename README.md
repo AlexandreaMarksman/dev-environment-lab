@@ -34,7 +34,7 @@ v14.6.0
 
 ## nodemon version
 
-6.14.7
+2.0.4
 
 ## Mongod version
 
