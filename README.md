@@ -11,13 +11,13 @@ linux-gnu
 
 /usr/bin/zsh
 
-## code alias
-
-/mnt/c/Users/david/AppData/Local/Programs/Microsoft VS Code/bin/code
-
 ## zsh location
 
 /usr/bin/zsh
+
+## code alias
+
+/mnt/c/Users/david/AppData/Local/Programs/Microsoft VS Code/bin/code
 
 ## GitHub CLI version
 
